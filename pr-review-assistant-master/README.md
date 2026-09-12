@@ -118,4 +118,3 @@ Open http://localhost:3000.
 * Test against 5-10 real PRs and note what the model catches/misses (this is where a resume metric comes from)
 * Rate limiting on `/api/review`
 * Stream the AI review instead of waiting for the full response
-<img width="1542" height="787" alt="image" src="https://github.com/user-attachments/assets/d39a79c0-98a4-4cce-afe3-9483273fa1f8" />
